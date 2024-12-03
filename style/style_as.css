@@ -59,8 +59,18 @@
 
 .wrapper {
     display: flex;
-
 }
 
+.h1 {
+    color: white;
+}
 
+.divform {
+    display: flex;
+}
+
+.l1 {
+    display: flex;
+    
+}
 
