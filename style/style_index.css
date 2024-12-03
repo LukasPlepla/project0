@@ -87,4 +87,11 @@
     border-color: white;
     border-radius: 5px;
     height: 25px;
+    color: white;
+}
+
+.g_logo{
+    width: 300px;
+    height: 250px;
+    margin: 100px;
 }
